@@ -1,0 +1,89 @@
+{
+    "profileData":[
+        {
+            "basics":{
+                "name":"NAGASRI",
+                "email":"nagasrijashti123@gmil.com",
+                "mobile":"+91 5648792398"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"73",
+                    "institute":"SVL school"
+                },
+                {
+                    "degree":"diploma",
+                    "percentage":"87",
+                    "institute":"MPE College"
+                },
+                {
+                    "degree":"B.tech(C.S.E)",
+                    "percentage":"88",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"programming languages",
+                    "values":["c","c+","java","python","ruby"]
+                },
+                {
+                    "type":"web technologies",
+                    "values":["html","css","javaScript"]
+                },
+                {
+                    "type":"FrameWorks & libaries",
+                    "values":["Reactjs"]
+                },
+                {
+                    "type":"Operating System",
+                    "values":["windows","linux","mac"]
+                }
+            ]
+
+        },
+        {
+            "basics":{
+                "name":"MOUNIKA",
+                "email":"mounikajashti@gmail.com",
+                "mobile":"+91 7673918146"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"80",
+                    "institute":"SVL school"
+                },
+                {
+                    "degree":"INTERMEDIATE",
+                    "percentage":"87",
+                    "institute":"NARAYANA College"
+                },
+                {
+                    "degree":"B.tech(C.S.E)",
+                    "percentage":"90",
+                    "institute":"MPL"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"programming languages",
+                    "values":["c","c+","java","python","ruby"]
+                },
+                {
+                    "type":"web technologies",
+                    "values":["html","css","javaScript"]
+                },
+                {
+                    "type":"FrameWorks & libaries",
+                    "values":["Reactjs"]
+                },
+                {
+                    "type":"Operating System",
+                    "values":["windows","linux","mac"]
+                }
+            ]
+        }
+    ]
+}
